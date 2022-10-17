@@ -81,12 +81,15 @@
 
 <p align="center"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;Git profile Trophies</p><br>
 <p align="center"><img src="https://github-profile-trophy.vercel.app/?username=billzhao1030&theme=juicyfresh&no-bg=true" /></p>
-
+![snake gif](https://github.com/billzhao1030/billzhao1030/blob/output/github-contribution-grid-snake.svg)
 
 -----
-<a target="_blank" align="center">
+<p align="center">
   <img align="center" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
-</a>
+</p>
+
+-----
+
 Credits: [Bill Zhao (IWYPage)](https://github.com/billzhao1030)
 
 Last Edited on: 17/10/2022
