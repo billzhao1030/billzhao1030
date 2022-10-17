@@ -84,8 +84,11 @@
 <!-- ![snake gif](https://github.com/billzhao1030/billzhao1030/blob/output/github-contribution-grid-snake.svg) -->
 
 -----
-<p align="center">
-  <img align="center" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+<p align="left">
+  <img src="https://s27389.pcdn.co/wp-content/uploads/2019/08/AdobeStock_244675452.jpeg" height="300"/>
+</p>
+<p align="right">
+  <img height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </p>
 
 -----
