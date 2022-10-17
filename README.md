@@ -41,13 +41,12 @@
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me ....***
 
 ✔ Callme: ***He/His*** or ***ZB*** 😊 <br>
-✔ I'm the lead system developer of the Urban Forest Project for <b>Launceston City Council<b><br>
+✔ I'm the lead system developer of the Urban Forest Project for <b>Launceston City Council</b><br>
 ✔ I’m currently learning about **deep learning**🥰<br>
 ✔ 2018, 2019 VEX worlds championship finalist<br>
 ✔ 2019 VEX Asia Open skill champion<br>
 ✔ 2015, 2016, 2017 China Sudoku Championship finalist <br>
-✔ GO 1D <br>
-✔ Love rubik cubes😉<br>
+✔ GO 1D, Love rubik cubes😉 <br>
 ⚡ Fun fact : *I Always try to learn something new and then sleep till it store in the brain* 😎<br><br><br><br>
  
 
@@ -75,8 +74,8 @@
   <p align="center">
  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p>
  
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=billzhao1030&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /></p>
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=billzhao1030&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="410" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=billzhao1030&show_icons=true&locale=en&langs_count=6&layout=compact&theme=chartreuse-dark" alt="ovi" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=billzhao1030&show_icons=true&locale=en&count_private=true&theme=chartreuse-dark" alt="ovi" width="410" /></p>
 <br><br><br><br><br>
 
 <hr>
