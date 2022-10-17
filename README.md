@@ -76,8 +76,6 @@
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=billzhao1030&show_icons=true&locale=en&count_private=true&theme=chartreuse-dark" alt="ovi" width="410" /></p>
 <br><br><br><br><br>
 
-<hr>
-
 ![snake gif](https://github.com/billzhao1030/billzhao1030/blob/output/github-contribution-grid-snake2.svg)
 
 -----
