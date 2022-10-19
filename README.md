@@ -9,7 +9,7 @@
  <p align="center">
 <img src="https://img.shields.io/badge/Age-21-purple" />
   <img src="https://img.shields.io/badge/Focus-Machine%20Learning-blue" />
-  <img src="https://img.shields.io/badge/Lives-Adelaide-success" />
+  <img src="https://img.shields.io/badge/Lives-Launceston-success" />
   <img src="https://img.shields.io/badge/Languages-English%20%26%20Mandarin-yellow" />
 </p>
 <hr>
