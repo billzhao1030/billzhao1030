@@ -21,7 +21,7 @@
 
 <p align="center">
   <em>
-      Hello, I am Bill Zhao a <b>first year</b> postgraduate from <a href="https://www.utas.edu.au/"> <b>University Of Adelaide</b></a>. <br>
+      Hello, I am Bill Zhao a <b>first year</b> postgraduate from <a href="https://www.adelaide.edu.au/"> <b>University Of Adelaide</b></a>. <br>
     <b>a passionate self-learner</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>Machine Learning Researcher</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br>who is <b>obsessed</b>
     with <b>Artificial Intelligence</b>
   </em> 
@@ -87,20 +87,5 @@
 
 Credits: [Bill Zhao (IWYPage)](https://github.com/billzhao1030)
 
-Last Edited on: 17/10/2022
+Last Edited on: 05/06/2023
 
-
-<!--
-**billzhao1030/billzhao1030** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
