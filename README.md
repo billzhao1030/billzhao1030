@@ -4,12 +4,12 @@
  <p align="center">
 <img src="https://img.shields.io/badge/Age-21-purple" />
   <img src="https://img.shields.io/badge/Focus-Machine%20Learning-blue" />
-  <img src="https://img.shields.io/badge/Lives-Launceston-success" />
+  <img src="https://img.shields.io/badge/Lives-Adelaide-success" />
   <img src="https://img.shields.io/badge/Languages-English%20%26%20Mandarin-yellow" />
 </p>
 <hr>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Bill Zhao (Xunyi) </h1>
-<h3 align="center">Undergraduate Student | Machine Learning Researcher</h3>
+<h3 align="center">Postgraduate Student | Machine Learning Researcher</h3>
 <p align="center">
 <a href="https://www.instagram.com/billzhao1030/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="insta_ovindu" height="35" width="35" /></a>
 <a href="https://www.facebook.com/billzhao1030/" target="blank"><img align="center" src="https://www.svgrepo.com/show/299425/facebook.svg" alt="fb_ovindu" height="35" width="35" /></a>
@@ -21,7 +21,7 @@
 
 <p align="center">
   <em>
-      Hello, I am Bill Zhao a <b>final year</b> undergraduate from <a href="https://www.utas.edu.au/"> <b>University Of Tasmania</b></a>. <br>
+      Hello, I am Bill Zhao a <b>first year</b> postgraduate from <a href="https://www.utas.edu.au/"> <b>University Of Adelaide</b></a>. <br>
     <b>a passionate self-learner</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>Machine Learning Researcher</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br>who is <b>obsessed</b>
     with <b>Artificial Intelligence</b>
   </em> 
