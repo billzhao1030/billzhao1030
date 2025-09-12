@@ -2,7 +2,7 @@
 <img src="https://komarev.com/ghpvc/?username=billzhao1030&color=yellow" alt="watching_count" />
  </p>
  <p align="center">
-<img src="https://img.shields.io/badge/Age-22-purple" />
+<img src="https://img.shields.io/badge/Age-23-purple" />
   <img src="https://img.shields.io/badge/Focus-Machine%20Learning-blue" />
   <img src="https://img.shields.io/badge/Lives-Adelaide-success" />
   <img src="https://img.shields.io/badge/Languages-English%20%26%20Mandarin-yellow" />
@@ -21,7 +21,7 @@
 
 <p align="center">
   <em>
-      Hello, I am Bill Zhao a <b>second year</b> postgraduate from <a href="https://www.adelaide.edu.au/"> <b>University Of Adelaide</b></a>. <br>
+      Hello, I am Bill Zhao a <b>First year</b> PhD from <a href="https://www.adelaide.edu.au/"> <b>University Of Adelaide</b></a>. <br>
     <b>a passionate self-learner</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>Machine Learning Researcher</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br>who is <b>obsessed</b>
     with <b>Artificial Intelligence</b>
   </em> 
