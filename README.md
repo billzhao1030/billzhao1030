@@ -21,9 +21,9 @@
 
 <p align="center">
   <em>
-      Hello, I am Bill Zhao a <b>First year</b> PhD from <a href="https://www.adelaide.edu.au/"> <b>University Of Adelaide</b></a>. <br>
+      Hello, I am Bill Zhao a <b>First year</b> PhD from <a href="https://www.adelaide.edu.au/"> <b>Adelaide University</b></a>. <br>
     <b>a passionate self-learner</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>Machine Learning Researcher</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br>who is <b>obsessed</b>
-    with <b>Artificial Intelligence</b>
+    with <b>Embodied AI</b>
   </em> 
   <br>
   <img src="https://media.giphy.com/media/gH3LO09IOiZIqePwv9/giphy.gif" width="50" /> <b><i align="center">Thought : "Everyday is a big day!”</i></b> <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" />
@@ -34,13 +34,13 @@
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me ....***
 
 ✔ Callme: ***He/His*** or ***ZB*** 😊 <br>
+✔ Currently research on Vision Language Navigation
 ✔ I'm the lead system developer of the Urban Forest Project for <b>Launceston City Council</b><br>
 ✔ I’m currently learning about **deep learning**🥰<br>
 ✔ 2018, 2019 VEX worlds championship finalist<br>
 ✔ 2019 VEX Asia Open skill champion<br>
 ✔ 2015, 2016, 2017 China Sudoku Championship finalist <br>
 ✔ GO 1D, Love rubik cubes😉 <br>
-⚡ Fun fact : *I Always try to learn something new and then sleep till it store in the brain* 😎<br><br><br><br>
  
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***My working tools...***
@@ -65,9 +65,9 @@
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"> </code>
   <hr>
   <p align="center">
- <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p>
+ <!-- <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p> -->
  
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=billzhao1030&show_icons=true&locale=en&langs_count=6&layout=compact&theme=chartreuse-dark" alt="ovi" /></p>
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=billzhao1030&show_icons=true&locale=en&langs_count=6&layout=compact&theme=chartreuse-dark" alt="ovi" /></p>
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=billzhao1030&show_icons=true&locale=en&count_private=true&theme=chartreuse-dark" alt="ovi" width="410" /></p>
 <br><br><br><br><br>
 
@@ -76,16 +76,13 @@
 -----
 
 <p align="center"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;Git profile Trophies</p><br>
-<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=billzhao1030&theme=juicyfresh&no-bg=true" /></p>
+<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=billzhao1030&theme=juicyfresh&no-bg=true" /></p> -->
 
------
 <p align="center">
   <img align="center" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </p>
 
------
 
-Credits: [Bill Zhao (IWYPage)](https://github.com/billzhao1030)
+Credits: [Bill Zhao (Dudu)](https://github.com/billzhao1030)
 
-Last Edited on: 05/06/2023
-
+Last Edited on: Jan 10 2026
