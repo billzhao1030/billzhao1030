@@ -79,6 +79,12 @@
 <p align="center"><img src="https://github-profile-trophy.vercel.app/?username=billzhao1030&theme=juicyfresh&no-bg=true" /></p> -->
 
 <p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <br>
+  
+</p>
+
+<p align="center">
   <img align="center" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </p>
 
