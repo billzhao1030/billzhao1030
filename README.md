@@ -2,7 +2,7 @@
 <img src="https://komarev.com/ghpvc/?username=billzhao1030&color=yellow" alt="watching_count" />
  </p>
  <p align="center">
-<img src="https://img.shields.io/badge/Age-23-purple" />
+<img src="https://img.shields.io/badge/Age-24-purple" />
   <img src="https://img.shields.io/badge/Focus-Machine%20Learning-blue" />
   <img src="https://img.shields.io/badge/Lives-Adelaide-success" />
   <img src="https://img.shields.io/badge/Languages-English%20%26%20Mandarin-yellow" />
@@ -34,7 +34,7 @@
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me ....***
 
 ✔ Callme: ***He/His*** or ***ZB*** 😊 <br>
-✔ Currently research on Vision Language Navigation
+✔ Currently research on Vision Language Navigation <br>
 ✔ I'm the lead system developer of the Urban Forest Project for <b>Launceston City Council</b><br>
 ✔ I’m currently learning about **deep learning**🥰<br>
 ✔ 2018, 2019 VEX worlds championship finalist<br>
@@ -91,4 +91,4 @@
 
 Credits: [Bill Zhao (Dudu)](https://github.com/billzhao1030)
 
-Last Edited on: Jan 10 2026
+Last Edited on: Feb 20 2026
