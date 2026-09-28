@@ -21,7 +21,7 @@
 
 <p align="center">
   <em>
-      Hello, I am Bill Zhao a <b>First year</b> PhD from <a href="https://www.adelaide.edu.au/"> <b>Adelaide University</b></a>. <br>
+      Hello, I am Bill Zhao a <b>Second year</b> PhD from <a href="https://www.adelaide.edu.au/"> <b>Adelaide University</b></a>. <br>
     <b>a passionate self-learner</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>Machine Learning Researcher</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br>who is <b>obsessed</b>
     with <b>Embodied AI</b>
   </em> 
