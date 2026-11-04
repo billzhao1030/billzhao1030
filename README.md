@@ -1,94 +1,81 @@
-<p align="left"> 
-<img src="https://komarev.com/ghpvc/?username=billzhao1030&color=yellow" alt="watching_count" />
- </p>
- <p align="center">
-<img src="https://img.shields.io/badge/Age-24-purple" />
-  <img src="https://img.shields.io/badge/Focus-Machine%20Learning-blue" />
-  <img src="https://img.shields.io/badge/Lives-Adelaide-success" />
-  <img src="https://img.shields.io/badge/Languages-English%20%26%20Mandarin-yellow" />
-</p>
-<hr>
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Bill Zhao (Xunyi) </h1>
-<h3 align="center">Postgraduate Student | Machine Learning Researcher</h3>
-<p align="center">
-<a href="https://www.instagram.com/billzhao1030/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="insta_ovindu" height="35" width="35" /></a>
-<a href="https://www.facebook.com/billzhao1030/" target="blank"><img align="center" src="https://www.svgrepo.com/show/299425/facebook.svg" alt="fb_ovindu" height="35" width="35" /></a>
-<a href="https://www.kaggle.com/billzhao1030" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" alt="kaggle_ovindu" height="35" width="35" /></a>
- <a href = "mailto: billzhao@gmail.com"><img align="center" src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" height="35" width="35" /></a>
-</p>
-</p>
-
+<h1 align="center">Xunyi (Bill) Zhao</h1>
 
 <p align="center">
-  <em>
-      Hello, I am Bill Zhao a <b>Second year</b> PhD from <a href="https://www.adelaide.edu.au/"> <b>Adelaide University</b></a>. <br>
-    <b>a passionate self-learner</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>Machine Learning Researcher</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br>who is <b>obsessed</b>
-    with <b>Embodied AI</b>
-  </em> 
-  <br>
-  <img src="https://media.giphy.com/media/gH3LO09IOiZIqePwv9/giphy.gif" width="50" /> <b><i align="center">Thought : "Everyday is a big day!”</i></b> <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" />
-</p>
-<br><br>
-<img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
-
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me ....***
-
-✔ Callme: ***He/His*** or ***ZB*** 😊 <br>
-✔ Currently research on Vision Language Navigation <br>
-✔ I'm the lead system developer of the Urban Forest Project for <b>Launceston City Council</b><br>
-✔ I’m currently learning about **deep learning**🥰<br>
-✔ 2018, 2019 VEX worlds championship finalist<br>
-✔ 2019 VEX Asia Open skill champion<br>
-✔ 2015, 2016, 2017 China Sudoku Championship finalist <br>
-✔ GO 1D, Love rubik cubes😉 <br>
- 
-
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***My working tools...***
-<p align="center">
-  <code> <img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"> </code>
-  <code> <img height="50" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"> </code>
-  <code> <img height="50" src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg"> </code>
-  <code> <img height="50" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-ar21.svg"> </code>
-  <code> <img height="50" src="https://www.vectorlogo.zone/logos/dartlang/dartlang-ar21.svg"> </code>
-  <code> <img height="50" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-ar21.svg"> </code>
-  <code> <img height="50" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg"> </code>
-  <code> <img height="50" src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg"> </code>
-  <code> <img height="50" src="https://raw.githubusercontent.com/valohai/ml-logos/master/scipy.svg"> </code>
-  <code> <img height="50" src="https://www.vectorlogo.zone/logos/jetbrains/jetbrains-ar21.svg"> </code>
-  <code> <img height="50" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"> </code>
-  <code> <img height="50" src="https://www.vectorlogo.zone/logos/dotnet/dotnet-ar21.svg"> </code>
-  <code> <img height="50" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"> </code>
-  <code> <img height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"> </code>
-  <code> <img height="50" src="https://www.vectorlogo.zone/logos/netlifyapp_watercss/netlifyapp_watercss-ar21.svg"> </code>
-  <code> <img height="50" src="https://seeklogo.com/images/S/scikit-learn-logo-8766D07E2E-seeklogo.com.png"> </code>
-  <code> <img height="50" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"> </code>
-  <code> <img height="50" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"> </code>
-  <hr>
-  <p align="center">
- <!-- <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p> -->
- 
-<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=billzhao1030&show_icons=true&locale=en&langs_count=6&layout=compact&theme=chartreuse-dark" alt="ovi" /></p>
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=billzhao1030&show_icons=true&locale=en&count_private=true&theme=chartreuse-dark" alt="ovi" width="410" /></p>
-<br><br><br><br><br>
-
-![snake gif](https://github.com/billzhao1030/billzhao1030/blob/output/github-contribution-grid-snake2.svg)
-
------
-
-<p align="center"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;Git profile Trophies</p><br>
-<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=billzhao1030&theme=juicyfresh&no-bg=true" /></p> -->
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-  <br>
-  
+  PhD Student · Australian Institute for Machine Learning (AIML), Adelaide University<br>
+  <b>Embodied AI · Agentic Systems · Vision-and-Language Navigation · Robot Learning</b>
 </p>
 
 <p align="center">
-  <img align="center" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+  <a href="https://billzhao1030.github.io/"><img src="https://img.shields.io/badge/Homepage-billzhao1030.github.io-1f6feb?style=flat-square" alt="Homepage"></a>
+  <a href="https://scholar.google.com/citations?user=nMSCtlEAAAAJ"><img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=flat-square&logo=googlescholar&logoColor=white" alt="Google Scholar"></a>
+  <a href="https://x.com/zhaoxunyi1"><img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" alt="X"></a>
+  <a href="https://www.linkedin.com/in/xunyi-zhao-170a791b9/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square" alt="LinkedIn"></a>
+  <a href="mailto:billzhao1030@gmail.com"><img src="https://img.shields.io/badge/Email-billzhao1030%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
+---
 
-Credits: [Bill Zhao (Dudu)](https://github.com/billzhao1030)
+### About
 
-Last Edited on: Feb 20 2026
+I am a PhD student at [AIML](https://www.adelaide.edu.au/aiml/), Adelaide University, supervised by [A/Prof. Qi Wu](http://www.qi-wu.me/) and [A/Prof. Jiajun Liu](https://people.csiro.au/L/J/ryan-liu) (CSIRO), and a member of the [V3A Lab](https://v3alab.github.io/).
+
+I build embodied agents that perceive, remember, reason and act in 3D environments. My current work is on training-free, agentic systems for embodied navigation, and I am extending this toward dexterous manipulation and real-robot deployment.
+
+**Research interests**
+- **Agentic embodied AI** — LLM/MLLM agents with tool use, memory and planning for long-horizon embodied tasks
+- **Embodied navigation** — VLN, instance-goal and lifelong navigation, SLAM-grounded agents
+- **MLLM evaluation** — spatial reasoning and decision-making of multimodal models as embodied agents
+- **Dexterous manipulation** — RL-trained skill primitives composed by planners and language-model agents
+
+### Selected Publications
+
+<sub>\* equal contribution · † project lead · Full list: [Homepage](https://billzhao1030.github.io/) / [Google Scholar](https://scholar.google.com/citations?user=nMSCtlEAAAAJ)</sub>
+
+- **VLN-MME: Diagnosing MLLMs as Language-guided Visual Navigation Agents**<br>
+  **Xunyi Zhao**, Gengze Zhou†, Qi Wu · *ACL 2026* · [Paper](https://aclanthology.org/2026.acl-long.1300/) · [Code](https://github.com/billzhao1030/VLN-MME) · [Project](https://billzhao1030.github.io/VLN-MME/)
+- **NavHarness: Towards Lifelong Embodied Navigation**<br>
+  **Xunyi Zhao\***, Jian Zhou\*, et al. · *arXiv 2026* · [Paper](https://arxiv.org/abs/2609.34276) · [Code](https://github.com/billzhao1030/NavHarness) · [Project](https://billzhao1030.github.io/NavHarness/)
+- **Embodied Agents Take Control: Minimal-Interface Zero-Shot Agents Rival Industrial-Scale Policies in VLN**<br>
+  Jian Zhou\*, **Xunyi Zhao\***, et al. · *arXiv 2026* · [Paper](https://arxiv.org/abs/2607.26148) · [Code](https://github.com/jianzhou0420/MIP) · [Project](https://jianzhou0420.github.io/src/works/MIP/)
+- **Ask When It Pays: Cost-Aware Open-Ended Interaction for Instance Goal Navigation**<br>
+  **Xunyi Zhao\***, Sihao Lin\*, et al. · *arXiv 2026* · [Paper](https://arxiv.org/abs/2606.03175) · [Project](https://billzhao1030.github.io/IVLN/)
+- **SurveyAtlas: A Living Literature Review for Embodied Navigation**<br>
+  **Xunyi Zhao**, et al. · *Preprint 2026* · [Paper](https://billzhao1030.github.io/SurveyAtlas/paper.pdf) · [Code](https://github.com/billzhao1030/SurveyAtlas) · [Project](https://billzhao1030.github.io/SurveyAtlas/)
+- **VLNVerse: A Benchmark for VLN with Versatile, Embodied, Realistic Simulation and Evaluation**<br>
+  Sihao Lin\*, Zerui Li\*, **Xunyi Zhao\***, et al. · *arXiv 2025* · [Paper](https://arxiv.org/abs/2512.19021) · [Code](https://github.com/william13077/VLNTube) · [Project](https://sihaoevery.github.io/vlnverse/)
+
+### Projects
+
+| Project | Description |
+|---|---|
+| [**SurveyAtlas**](https://github.com/billzhao1030/SurveyAtlas) | Self-updating literature survey: LLM agents harvest, classify, deep-read and verify papers. [NavAtlas](https://billzhao1030.github.io/SurveyAtlas/navatlas/) covers 3,000+ embodied-navigation papers. |
+| [**ShadowRubik**](https://billzhao1030.github.io/ShadowRubik/) | Bimanual Shadow Hands solve random Rubik's Cubes: RL-trained atomic moves + a CFOP agent (planner or LLM). |
+
+### Tech Stack
+
+**Core** &nbsp;
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![CUDA](https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white)
+
+**Embodied Simulation** &nbsp;
+![Habitat-Sim](https://img.shields.io/badge/Habitat--Sim-555555?style=flat-square)
+![Matterport3D Simulator](https://img.shields.io/badge/Matterport3D_Simulator-555555?style=flat-square)
+![Isaac Sim](https://img.shields.io/badge/Isaac_Sim-76B900?style=flat-square&logo=nvidia&logoColor=white)
+![MuJoCo](https://img.shields.io/badge/MuJoCo-555555?style=flat-square)
+
+**Benchmarks** &nbsp; R2R · R2R-CE · REVERIE · ObjectNav · GOAT-Bench · HM3D · MP3D
+
+**Agents & LLMs** &nbsp; MLLM evaluation · ReAct-style tool use · agent memory & planning · coding-agent harnesses
+
+**Infra** &nbsp;
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+### Background
+
+- **Teaching:** TA for Programming for AI & ML (COMP 5004), Deep Learning Applications (COMP 6004), System Design (INFO 2005) — Adelaide University, 2026
+- **Robotics:** VEX Robotics World Championship finalist (2018, 2019); VEX Asia Open Skills Champion (2019)
+- **Engineering:** Lead system developer, Urban Forest Project, City of Launceston
+- **Outside research:** Go (1-dan), China Sudoku Championship finalist (2015–2017), speedcubing
